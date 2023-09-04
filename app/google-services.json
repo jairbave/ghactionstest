@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "187693741324",
+    "project_id": "calculadora2-18b28",
+    "storage_bucket": "calculadora2-18b28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187693741324:android:6222e79e89e4121adcc529",
+        "android_client_info": {
+          "package_name": "com.example.operaciones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187693741324-e27oupgt3goudigddmhv1pt7dalt6o71.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.operaciones",
+            "certificate_hash": "e73d4965ad2ea552810d5a701e1fd3a76001ffdd"
+          }
+        },
+        {
+          "client_id": "187693741324-v36hbj3k7ufg0ccu4esfihscv7krdkkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUe_hTxEAxEkW8Xx1tnyUxXMmIdHEpOUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187693741324-v36hbj3k7ufg0ccu4esfihscv7krdkkt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
