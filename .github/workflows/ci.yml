@@ -8,7 +8,7 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntun-later
+    runs-on: ubuntun-latest
 
     steps:
       - uses: actions/checkout@v3
